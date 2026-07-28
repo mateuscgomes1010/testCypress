@@ -10,6 +10,13 @@ Este repositório contém a automação de testes End-to-End (E2E) para a aplica
 * 💡 **Melhorias e Inconsistências:** [Acessar Levantamento de Melhorias](https://app.notion.com/p/Levantamento-de-Inconsist-ncias-e-D-vidas-d109a7d6b1374e1b8719e8eb1ada7e15?source=copy_link)
 
 ---
+## 📊 Relatório de Execução dos Testes
+
+O relatório interativo HTML é gerado automaticamente após a execução da suíte e publicado via GitHub Pages:
+
+* 📈 **[Clique aqui para visualizar o Relatório de Execução (HTML)](https://mateuscgomes1010.github.io/testCypress/cypress/reports/html/index.html)**
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
